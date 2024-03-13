@@ -1,10 +1,3 @@
-=[💉]= AWM-XD 💥
-=[💉]= FILE/RANDOM CLONE
-=[💉]= LOCK ID REMOVED ALL LOGIN
-=[💉]= DAILY NIGHT UPDATE ( 🔥 )
-=[💉]= JOIN OUR GROUP
-https://chat.whatsapp.com/BhBNYbgfnKoASk98EPa2Ek
-=[💉]= COMMAND 
 
 ```
 rm -rf AWM-XD
