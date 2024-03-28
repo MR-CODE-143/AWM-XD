@@ -6,5 +6,7 @@ git clone --depth=1 https://github.com/MR-CODE-143/AWM-XD
 
 cd AWM-XD
 
-python run.py
+chmod +x run
+
+./run
 ```
