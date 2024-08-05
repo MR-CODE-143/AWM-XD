@@ -1,2 +1,2 @@
-from main import Subscription
+from AWM import Subscription
 Subscription().checking()
