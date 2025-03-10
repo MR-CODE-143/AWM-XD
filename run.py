@@ -1,2 +1,3 @@
-import mrcode
-mrcode.MRCODExSERVER()
+import main
+from main import HadiAnhaf
+HadiAnhaf().MainMenu()
