@@ -1,3 +1,2 @@
-import main
-from main import HadiAnhaf
-HadiAnhaf().MainMenu()
+from awmxd import XWMXD
+XWMXD().main()
