@@ -1,2 +1,2 @@
-from awmxd import XWMXD
-XWMXD().main()
+import main
+main.execute()
